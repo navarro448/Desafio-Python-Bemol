@@ -1,0 +1,3 @@
+Média do Valor adicionado bruto dos Serviços Total de 2018 em todos os estados: 600169.4816876122
+Média do Valor adicionado bruto dos Serviços Total de 2018 no estado de Manaus: 524284.8548387097
+Relação entre a média do Valor adicionado bruto dos Serviços Total de todos os estados em comparação a média de Manaus em 2018: 1.1447393075511356

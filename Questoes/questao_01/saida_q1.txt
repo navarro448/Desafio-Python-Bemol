@@ -1,0 +1,4 @@
+Foram retornadas 189 linhas do arquivo com os dados de Manaus 
+Soma total do PIB: 2121886.180000001
+Média do PIB per Capita em Manaus: 11226.911005291011
+obs: *Produto Interno Bruto per capita a preços correntes (R$ 1,00)*
